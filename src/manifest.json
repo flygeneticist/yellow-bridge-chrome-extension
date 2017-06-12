@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "Yellow Bridge Dictionary Search",
+  "description": "This extension allows you to quickly lookup a Hanzi in Yellow Bridge",
+  "version": "1.0",
+  "browser_action": {
+   "default_icon": "yb.png",
+   "default_popup": "index.html",
+   "default_title": "Yellow Bridge Dictionary Search!"
+  },
+  "permissions": [ 
+    "activeTab" 
+  ]
+}
